@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <html>
 <head>
-    <title>Creditos</title>
+    <title>Creditos</title> //LEANDRO FELIX E KAIK PERSIKE
     <style>
         body {
             font-family: Arial, sans-serif;

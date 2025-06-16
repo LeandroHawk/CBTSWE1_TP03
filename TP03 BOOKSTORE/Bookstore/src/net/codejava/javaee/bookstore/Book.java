@@ -4,7 +4,7 @@ package net.codejava.javaee.bookstore;
  * Book.java
  * This is a model class represents a book entity
  * @author www.codejava.net
- *
+ * LEANDRO FELIX E KAIK PERSIKE
  */
 public class Book {
     protected int id;

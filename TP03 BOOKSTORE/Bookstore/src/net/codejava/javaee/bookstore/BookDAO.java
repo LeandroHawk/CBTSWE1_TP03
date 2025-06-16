@@ -14,7 +14,7 @@ import java.util.List;
  * This DAO class provides CRUD database operations for the table book
  * in the database.
  * @author www.codejava.net
- *
+ * LEANDRO FELIX NUNES
  */
 public class BookDAO {
     private String jdbcURL;
